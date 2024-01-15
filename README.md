@@ -1,6 +1,5 @@
-# Apple-vission-pro-clone
-Apple vission pro website clone
-# Apple Vision Pro Web Clone
+# Apple-vission-pro-Website-clone
+
 
 ## Overview
 
@@ -24,5 +23,5 @@ This project is a web clone inspired by Apple's Vision Pro website. It aims to r
 - CSS3
 - JavaScript
 
-## Setup
+<!-- ## Setup -->
 
