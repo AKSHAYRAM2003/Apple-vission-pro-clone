@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-/* @font-face {
+@font-face {
     font-family: SF PRO DISPLAY;
     src: url(./SFPRODISPLAYBOLD.OTF);
-} */
+}
 
 html,body{
     height: 100%;
