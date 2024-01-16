@@ -14,7 +14,7 @@ This project is a web clone inspired by Apple's Vision Pro website. It aims to r
 - **Interactive Elements**: Implement interactive elements and animations to enhance the user interface and create a dynamic browsing experience.
 
 ## Screenshots
-![landing page](https://cdn.sanity.io/images/qyzm5ged/production/79a330b665c036c3b81173fde5209dd89be14450-1200x809.gif/Hero-Section.gif)
+![landing page](./landing%20page.png)
 
 
 ## Technologies Used
