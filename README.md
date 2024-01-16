@@ -14,7 +14,7 @@ This project is a web clone inspired by Apple's Vision Pro website. It aims to r
 - **Interactive Elements**: Implement interactive elements and animations to enhance the user interface and create a dynamic browsing experience.
 
 ## Screenshots
-![landing page](./landing%20page.png)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F1288864548150483528%2Fapple-visionpro-website-recreation&psig=AOvVaw3OFdWiQRFtHNOcJn-Lh_9V&ust=1705491114797000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjqi9fn4YMDFQAAAAAdAAAAABAe)
 
 
 ## Technologies Used
