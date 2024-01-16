@@ -14,7 +14,7 @@ This project is a web clone inspired by Apple's Vision Pro website. It aims to r
 - **Interactive Elements**: Implement interactive elements and animations to enhance the user interface and create a dynamic browsing experience.
 
 ## Screenshots
- <img src="C:\Web Dev\Apple-vission-pro-project\Apple-vission-pro-clone\Apple VisionPro Website Recreation.png">
+ <img src="https://drive.google.com/file/d/1CIwZX21AkZsWdI2i5vNfSfoy0E81q-YF/view?usp=sharing">
 
 
 ## Technologies Used
