@@ -83,17 +83,15 @@ ScrollTrigger.refresh();
 
 gsap.to("#page>video",{
     scrollTrigger:{
-        trigger:`#page>video`,
-        start: `3% top`,
-        end:`bottom top`,
+        trigger:"#page>video",
+        start: "3% top",
+        end:"bottom top",
         markers:true,
-        scroller:`#main`
+        scroller:"#main"
     },
     onStart:()=>{
         document.querySelector("#page>video").play()
     
     }
 })
-
-
 

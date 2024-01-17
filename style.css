@@ -20,7 +20,7 @@ html,body{
 
 #page{
     position: relative;
-    height: 100vh;
+    height: 132vh;
     width: 100vw;
     background-color: black;
 }
@@ -31,9 +31,9 @@ html,body{
     font-family: SF PRO DISPLAY;
     justify-content: space-between;
     padding: 0px 20px;
-    height: 8vh;
+    height: 12.5vh;
     width: 60vw;
-    background-color:black;
+    background-color:rgb(187, 179, 179);
     color: white;
     position: absolute;
     top: 0%;
@@ -46,20 +46,40 @@ html,body{
     border-radius: 60px;
 }
 
-#page>video{ 
+/* #page>video{ 
     height: 100%;
     width: 50%;
-    position: absolute;
-    top: 60px;
+    object-fit: cover;
+    position: relative; */
+    /* top: 60px; */
+    /* left: 50%;
+    transform: translateX(-50%);
+} */
+#page>video {
+    height: calc(100% - 12.5vh); /* Subtract the navbar height from the video height */
+    width: 60%;
+    object-fit: cover;
+    position: relative;
+    top: 12.5vh; /* Adjusted to push the video below the navbar */
     left: 50%;
     transform: translateX(-50%);
 }
 
-video {
-    vertical-align:initial;
-    object-fit: contain;
-    overflow-clip-margin: content-box;
-    object-fit: contain;
+#page-bottom{
+    height: 20%;
+    width: 10%;
+    /* background-color: brown; */
+    position:absolute;
+    font-family:SF PRO DISPLAY ;
+    bottom: 0;
+    top: 81%;
+    left: 50%;
+    transform: translateX(-50%);
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 #page1{
@@ -67,4 +87,9 @@ video {
     height: 100vh;
     width: 100vw;
     background-color: white;
+}
+#page1>video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
